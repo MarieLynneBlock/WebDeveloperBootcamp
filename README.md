@@ -20,3 +20,9 @@ Exercises for The Web Developer Bootcamp 2017
       - Authentication
       - PassportJS
       - Authorization
+      
+
+# Progress
+
+    20%
+    ████▒▒▒▒▒▒
