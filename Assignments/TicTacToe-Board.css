@@ -1,0 +1,32 @@
+/* Assignment 3: CSS Tic Tac Toe Board */
+
+
+	/* Style Text */
+h1 {
+	text-align: center;
+}
+
+
+	/* Style Table */
+table {
+	margin: auto;
+}
+
+
+td {
+	width: 100px;
+	height: 100px;
+
+}
+
+
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+}
+
+
+.horizontal {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
