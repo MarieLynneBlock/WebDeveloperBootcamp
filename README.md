@@ -22,7 +22,7 @@ Exercises for The Web Developer Bootcamp 2017
       - Authorization
       
 
-# Progress
+## Progress
 
     21%
     ████▒▒▒▒▒▒▒▒▒
