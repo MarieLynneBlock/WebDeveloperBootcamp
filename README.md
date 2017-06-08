@@ -33,7 +33,7 @@ Exercises for The Web Developer Bootcamp 2017
             ☑   Section 04: Intermediate HTML
             ☑   Section 05: Introduction to CSS
             ☑   Section 06: Intermediate CSS
-            ☐   Section 07: Bootstrap
+            ☑   Section 07: Bootstrap
             ☐   Section 08: Introduction to JavaScript
             ☐   Section 09: Javascript Basics: Control Flow
             ☐   Section 10: Javascript Basics: Functions
