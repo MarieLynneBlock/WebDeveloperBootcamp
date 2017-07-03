@@ -24,47 +24,47 @@ complete beginner Full-Stack Developer Bootcamp.
       - Authorization
       
 
-## Progress
 
-    21%
-    ████▒▒▒▒▒▒▒▒▒
-    
-            ☑   Section 01: Introduction to this Course
-            ☑   Section 02: Introduction to Front End Development
-            ☑   Section 03: Introduction to HTML
-            ☑   Section 04: Intermediate HTML
-            ☑   Section 05: Introduction to CSS
-            ☑   Section 06: Intermediate CSS
-            ☑   Section 07: Bootstrap
-            ☐   Section 08: Introduction to JavaScript
-            ☐   Section 09: Javascript Basics: Control Flow
-            ☐   Section 10: Javascript Basics: Functions
-            ☐   Section 11: Javascript Basics: Arrays
-            ☐   Section 12: Javascript Basics: Objects
-            ☐   Section 13: DOM Manipulation
-            ☐   Section 14: Advanced DOM Manipulation
-            ☐   Section 15: Color Game Project
-            ☐   Section 16: Intro to jQuery
-            ☐   Section 17: Advanced jQuery
-            ☐   Section 18: Todo List Projects
-            ☐   Section 19: Project: Patatap Clone
-            ☐   Section 20: Backend Basics
-            ☐   Section 21: The Command Line
-            ☐   Section 22: Node JS
-            ☐   Section 23: Server Side Frameworks
-            ☐   Section 24: Intermediate Express
-            ☐   Section 25: Working With API's
-            ☐   Section 26: YelpCamp: Basics
-            ☐   Section 27: Databases
-            ☐   Section 28: YelpCamp: Data Persistance
-            ☐   Section 29: RESTful Routing
-            ☐   Section 30: Data Associations
-            ☐   Section 31: YelpCamp: Comments
-            ☐   Section 32: Authentication
-            ☐   Section 33: YelpCamp: Adding Authentication
-            ☐   Section 34: YelpCamp: Cleaning Up
-            ☐   Section 35: YelpCamp: Update and Destroy
-            ☐   Section 36: YelpCamp: UI Improvements
-            ☐   Section 37: Git and Github
-            ☐   Section 38: Deploying
-            ☐   Section 39: JavaScript: The Tricky Stuff
+## Course Layout
+
+        SECTION 01  -  Introduction to this Course
+        SECTION 02  -  Introduction to Front End Development
+        SECTION 03  -  Introduction to HTML
+        SECTION 04  -  Intermediate HTML
+        SECTION 05  -  Introduction to CSS
+        SECTION 06  -  Intermediate CSS
+        SECTION 07  -  Bootstrap
+        SECTION 08  -  Introduction to JavaScript
+        SECTION 09  -  Javascript Basics: Control Flow
+        SECTION 10  -  Javascript Basics: Functions
+        SECTION 11  -  Javascript Basics: Arrays
+        SECTION 12  -  Javascript Basics: Objects
+        SECTION 13  -  DOM Manipulation
+        SECTION 14  -  Advanced DOM Manipulation
+        SECTION 15  -  Color Game Project
+        SECTION 16  -  Intro to jQuery
+        SECTION 17  -  Advanced jQuery
+        SECTION 18  -  Todo List Projects
+        SECTION 19  -  Patatap Clone        (OPTIONAL Project)
+        SECTION 20  -  Backend Basics
+        SECTION 21  -  The Command Line
+        SECTION 22  -  Node JS
+        SECTION 23  -  Server Side Frameworks
+        SECTION 24  -  Intermediate Express
+        SECTION 25  -  Working With API's
+        SECTION 26  -  YelpCamp: Basics                     * project *
+        SECTION 27  -  Databases
+                        [ ->  CONTINUATION COURSE: DATABASES BOOTCAMP: https://github.com/MarieLynneBlock/DatabasesBootcamp ]
+        SECTION 28  -  YelpCamp: Data Persistance           * project *
+        SECTION 29  -  RESTful Routing
+        SECTION 30  -  Data Associations
+        SECTION 31  -  YelpCamp: Comments                   * project *
+        SECTION 32  -  Authentication
+        SECTION 33  -  YelpCamp: Adding Authentication      * project *
+        SECTION 34  -  YelpCamp: Cleaning Up                * project *
+        SECTION 35  -  YelpCamp: Update and Destroy         * project *
+        SECTION 36  -  YelpCamp: UI Improvements            * project *
+        SECTION 37  -  Git and Github
+        SECTION 38  -  Deploying
+        SECTION 39  -  JavaScript: The Tricky Stuff
+          
