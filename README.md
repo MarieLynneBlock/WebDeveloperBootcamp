@@ -38,33 +38,33 @@ complete beginner Full-Stack Developer Bootcamp.
     SECTION 09  -  Javascript Basics: Control Flow
     SECTION 10  -  Javascript Basics: Functions
     SECTION 11  -  Javascript Basics: Arrays
-    SECTION 12  -  Javascript Basics: Objects
+    SECTION 12  -  Javascript Basics: Objects
     SECTION 13  -  DOM Manipulation
     SECTION 14  -  Advanced DOM Manipulation
-    SECTION 15  -  Color Game Project
-    SECTION 16  -  Intro to jQuery
+    SECTION 15  -  Color Game Project
+    SECTION 16  -  Intro to jQuery
     SECTION 17  -  Advanced jQuery
     SECTION 18  -  Todo List Projects
-    SECTION 19  -  Patatap Clone        (OPTIONAL Project)
+    SECTION 19  -  Patatap Clone        (OPTIONAL Project)
     SECTION 20  -  Backend Basics
     SECTION 21  -  The Command Line
     SECTION 22  -  Node JS
-    SECTION 23  -  Server Side Frameworks
+    SECTION 23  -  Server Side Frameworks
     SECTION 24  -  Intermediate Express
     SECTION 25  -  Working With API's
     SECTION 26  -  YelpCamp: Basics                     * project *
     SECTION 27  -  Databases
-    [ ->  CONTINUATION COURSE: DATABASES BOOTCAMP: https://github.com/MarieLynneBlock/DatabasesBootcamp ]
-    SECTION 28  -  YelpCamp: Data Persistance           * project *
+        [ ->  CONTINUATION COURSE: DATABASES BOOTCAMP: https://github.com/MarieLynneBlock/DatabasesBootcamp ]
+    SECTION 28  -  YelpCamp: Data Persistance           * project *
     SECTION 29  -  RESTful Routing
     SECTION 30  -  Data Associations
     SECTION 31  -  YelpCamp: Comments                   * project *
     SECTION 32  -  Authentication
     SECTION 33  -  YelpCamp: Adding Authentication      * project *
-    SECTION 34  -  YelpCamp: Cleaning Up                * project *
-    SECTION 35  -  YelpCamp: Update and Destroy         * project *
-    SECTION 36  -  YelpCamp: UI Improvements            * project *
+    SECTION 34  -  YelpCamp: Cleaning Up                * project *
+    SECTION 35  -  YelpCamp: Update and Destroy         * project *
+    SECTION 36  -  YelpCamp: UI Improvements            * project *
     SECTION 37  -  Git and Github
-    SECTION 38  -  Deploying
+    SECTION 38  -  Deploying
     SECTION 39  -  JavaScript: The Tricky Stuff
           
