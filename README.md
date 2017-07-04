@@ -54,7 +54,7 @@ complete beginner Full-Stack Developer Bootcamp.
     SECTION 25  -  Working With API's
     SECTION 26  -  YelpCamp: Basics                     * project *
     SECTION 27  -  Databases
-        [ ->  CONTINUATION COURSE: DATABASES BOOTCAMP: https://github.com/MarieLynneBlock/DatabasesBootcamp ]
+     [ ->  CONTINUATION COURSE: DATABASES BOOTCAMP: https://github.com/MarieLynneBlock/DatabasesBootcamp ]
     SECTION 28  -  YelpCamp: Data Persistance           * project *
     SECTION 29  -  RESTful Routing
     SECTION 30  -  Data Associations
