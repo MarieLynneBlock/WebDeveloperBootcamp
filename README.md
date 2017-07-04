@@ -27,13 +27,13 @@ complete beginner Full-Stack Developer Bootcamp.
 
 ## Course Layout
 
-    SECTION 01  -  Introduction to this Course
-    SECTION 02  -  Introduction to Front End Development
-    SECTION 03  -  Introduction to HTML
-    SECTION 04  -  Intermediate HTML
-    SECTION 05  -  Introduction to CSS
-    SECTION 06  -  Intermediate CSS
-    SECTION 07  -  Bootstrap
+    ✅ SECTION 01  -  Introduction to this Course
+    ✅ SECTION 02  -  Introduction to Front End Development
+    ✅ SECTION 03  -  Introduction to HTML
+    ✅ SECTION 04  -  Intermediate HTML
+    ✅ SECTION 05  -  Introduction to CSS
+    ✅ SECTION 06  -  Intermediate CSS
+    ✅ SECTION 07  -  Bootstrap
     SECTION 08  -  Introduction to JavaScript
     SECTION 09  -  Javascript Basics: Control Flow
     SECTION 10  -  Javascript Basics: Functions
