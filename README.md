@@ -67,4 +67,7 @@ complete beginner Full-Stack Developer Bootcamp.
     ❎ SECTION 37  -  Git and Github
     ❎ SECTION 38  -  Deploying
     ❎ SECTION 39  -  JavaScript: The Tricky Stuff
-          
+    
+             
+## Projects
+
