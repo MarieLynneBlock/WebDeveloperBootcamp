@@ -75,4 +75,4 @@ complete beginner Full-Stack Developer Bootcamp.
 
 Registration Form:
  
-![Assignment 1 - Registration Form]({{site.baseurl}}//Screen%20Shot%202017-07-05%20at%2018.39.18.png)
+![Assignment 1 - Registration Form]({{site.baseurl}}/http://imgur.com/mrF4Qwu)
