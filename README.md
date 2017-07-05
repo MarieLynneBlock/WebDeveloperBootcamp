@@ -71,3 +71,8 @@ complete beginner Full-Stack Developer Bootcamp.
              
 ## Projects
 
+### HTML
+
+Registration Form:
+ 
+![Assignment 1 - Registration Form]({{site.baseurl}}//Screen%20Shot%202017-07-05%20at%2018.39.18.png)
