@@ -34,7 +34,7 @@ complete beginner Full-Stack Developer Bootcamp.
     ✅ SECTION 05  -  Introduction to CSS
     ✅ SECTION 06  -  Intermediate CSS
     ✅ SECTION 07  -  Bootstrap
-    ❎ SECTION 08  -  Introduction to JavaScript
+    ✅ SECTION 08  -  Introduction to JavaScript
     ❎ SECTION 09  -  Javascript Basics: Control Flow
     ❎ SECTION 10  -  Javascript Basics: Functions
     ❎ SECTION 11  -  Javascript Basics: Arrays
@@ -69,10 +69,3 @@ complete beginner Full-Stack Developer Bootcamp.
     ❎ SECTION 39  -  JavaScript: The Tricky Stuff
     
              
-## Projects
-
-### HTML
-
-Registration Form:
- 
-![Assignment 1 - Registration Form]({{site.baseurl}}/http://imgur.com/mrF4Qwu)
