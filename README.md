@@ -2,7 +2,7 @@
 
 Exercises for The Web Developer Bootcamp 2017
 
-complete beginner Full-Stack Developer Bootcamp.
+complete advanced Full-Stack Developer Bootcamp.
 
     Tools and technologies covered throughout the course:
       - HTML5
