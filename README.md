@@ -86,7 +86,7 @@ complete advanced Full-Stack Developer Bootcamp.
             ✅ SECTION 27.01  -  Introduction to SQL
             ❎ SECTION 27.02  -  Overview
             ❎ SECTION 27.03  -  Creating Databases and Tables
-            ❎ SECTION 27.04  -  Inserting Data
+            ❎ SECTION 27.04  -  Inserting Data
             ❎ SECTION 27.05  -  CRUD commmands
             ❎ SECTION 27.06  -  CRUD Challenge
             ❎ SECTION 27.07  -  The World Of String Functions
