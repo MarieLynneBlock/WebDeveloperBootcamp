@@ -89,17 +89,17 @@ complete advanced Full-Stack Developer Bootcamp.
             ❎ SECTION 27.04  -  Inserting Data
             ❎ SECTION 27.05  -  CRUD commmands
             ❎ SECTION 27.06  -  CRUD Challenge
-            ❎ SECTION 27.07  -  The World Of String Functions
-            ❎ SECTION 27.08  -  Refining Our Selections
+            ❎ SECTION 27.07  -  The World Of String Functions
+            ❎ SECTION 27.08  -  Refining Our Selections
             ❎ SECTION 27.09  -  The Magic of Aggregate Functions
             ❎ SECTION 27.10  -  Revisiting Data Types
             ❎ SECTION 27.11  -  The Power of Logical Operators
-            ❎ SECTION 27.12  -  One To Many 1
-            ❎ SECTION 27.13  -  One To Many 2
+            ❎ SECTION 27.12  -  One To Many 1
+            ❎ SECTION 27.13  -  One To Many 2
             ❎ SECTION 27.14  -  Instagram Database Clone
             ❎ SECTION 27.15  -  Working With Lots Of Instagram Data
             ❎ SECTION 27.16  -  Introducing Node
-            ❎ SECTION 27.17  -  Building Our Web App
+            ❎ SECTION 27.17  -  Building Our Web App
             ❎ SECTION 27.18  -  Database Triggers
     ❎ SECTION 28  -  YelpCamp: Data Persistance           * project *
     ❎ SECTION 29  -  RESTful Routing
