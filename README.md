@@ -19,9 +19,26 @@ complete beginner Full-Stack Developer Bootcamp.
       - REST
       - MongoDB
       - Database Associations
-      - Authentication
       - PassportJS
       - Authorization
+      - React
+      - React-Router
+      - Redux
+      - CSS3 Transitions, Transforms and Animations
+      - Testing with Jasmine
+      - D3
+      - SVG
+      - Building charts, force graphs and data visualizations
+      - ES2015 keywords, arrow functions, class syntax, and much more
+      - ES2016 and ES2017 and cutting edge features to JavaScript
+      - Callbacks, Promises, Generators and Async Functions
+      - Building Node.js APIs
+      - Building Single Page Applications
+      - Object Oriented Programming in JavaScript
+      - Closures and the keyword 'this'
+      - Functional Programming in JavaScript
+      - Authentication and Authorization
+      - Asynchronous Code with JavaScript
       
 
 
@@ -53,8 +70,7 @@ complete beginner Full-Stack Developer Bootcamp.
     ❎ SECTION 24  -  Intermediate Express
     ❎ SECTION 25  -  Working With API's
     ❎ SECTION 26  -  YelpCamp: Basics                     * project *
-    ❎ SECTION 27  -  Databases
-     [ ->  CONTINUATION COURSE: DATABASES BOOTCAMP: https://github.com/MarieLynneBlock/DatabasesBootcamp ]
+    ❎ SECTION 27  -  Databases                            * learning path * 
     ❎ SECTION 28  -  YelpCamp: Data Persistance           * project *
     ❎ SECTION 29  -  RESTful Routing
     ❎ SECTION 30  -  Data Associations
