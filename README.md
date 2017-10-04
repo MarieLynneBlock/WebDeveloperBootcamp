@@ -101,7 +101,7 @@ complete advanced Full-Stack Developer Bootcamp.
             ❎ SECTION 27.16  -  Introducing Node
             ❎ SECTION 27.17  -  Building Our Web App
             ❎ SECTION 27.18  -  Database Triggers
-    ❎ SECTION 28  -  YelpCamp: Data Persistance           * project *
+    ❎ SECTION 28  -  YelpCamp: Data Persistance           * project *
     ❎ SECTION 29  -  RESTful Routing
     ❎ SECTION 30  -  Data Associations
     ❎ SECTION 31  -  YelpCamp: Comments                   * project *
