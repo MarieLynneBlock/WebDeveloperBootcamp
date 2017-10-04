@@ -83,24 +83,24 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 25  -  Working With API's
     ❎ SECTION 26  -  YelpCamp: Basics                     * project *
     ❎ SECTION 27  -  Databases                            * learning path * 
-        ✅ SECTION 27.01  -  Introduction to SQL
-        ❎ SECTION 27.02  -  Overview
-        ❎ SECTION 27.03  -  Creating Databases and Tables
-        ❎ SECTION 27.04  -  Inserting Data
-        ❎ SECTION 27.05  -  CRUD commmands
-        ❎ SECTION 27.06  -  CRUD Challenge
-        ❎ SECTION 27.07  -  The World Of String Functions
-        ❎ SECTION 27.08  -  Refining Our Selections
-        ❎ SECTION 27.09  -  The Magic of Aggregate Functions
-        ❎ SECTION 27.10  -  Revisiting Data Types
-        ❎ SECTION 27.11  -  The Power of Logical Operators
-        ❎ SECTION 27.12  -  One To Many 1
-        ❎ SECTION 27.13  -  One To Many 2
-        ❎ SECTION 27.14  -  Instagram Database Clone
-        ❎ SECTION 27.15  -  Working With Lots Of Instagram Data
-        ❎ SECTION 27.16  -  Introducing Node
-        ❎ SECTION 27.17  -  Building Our Web App
-        ❎ SECTION 27.18  -  Database Triggers
+            ✅ SECTION 27.01  -  Introduction to SQL
+            ❎ SECTION 27.02  -  Overview
+            ❎ SECTION 27.03  -  Creating Databases and Tables
+            ❎ SECTION 27.04  -  Inserting Data
+            ❎ SECTION 27.05  -  CRUD commmands
+            ❎ SECTION 27.06  -  CRUD Challenge
+            ❎ SECTION 27.07  -  The World Of String Functions
+            ❎ SECTION 27.08  -  Refining Our Selections
+            ❎ SECTION 27.09  -  The Magic of Aggregate Functions
+            ❎ SECTION 27.10  -  Revisiting Data Types
+            ❎ SECTION 27.11  -  The Power of Logical Operators
+            ❎ SECTION 27.12  -  One To Many 1
+            ❎ SECTION 27.13  -  One To Many 2
+            ❎ SECTION 27.14  -  Instagram Database Clone
+            ❎ SECTION 27.15  -  Working With Lots Of Instagram Data
+            ❎ SECTION 27.16  -  Introducing Node
+            ❎ SECTION 27.17  -  Building Our Web App
+            ❎ SECTION 27.18  -  Database Triggers
     ❎ SECTION 28  -  YelpCamp: Data Persistance           * project *
     ❎ SECTION 29  -  RESTful Routing
     ❎ SECTION 30  -  Data Associations
