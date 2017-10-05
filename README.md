@@ -57,9 +57,14 @@ complete advanced Full-Stack Developer Bootcamp.
 
 Just showcasing a few projects, assignments and exercises.
 
-#### 2.  Zombie Blog
+#### 1.  Zombie Blog
 Assignment 4 for SECTION 5  -  Introduction to CSS
 ![alt text](https://i.imgur.com/tm3qqJY.png)
+
+
+#### 2.  Black & White Image gallery
+Exercise 21 for SECTION 6  -  Intermediate CSS (pure CSS, responsive, images, alt-tags)
+![alt text](https://i.imgur.com/lC8rYkN.png)
 
 
 #### 3.  Image Gallery
