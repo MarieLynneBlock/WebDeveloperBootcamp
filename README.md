@@ -114,7 +114,7 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 38  -  Deploying
     ❎ SECTION 39  -  JavaScript: The Tricky Stuff
     ❎ SECTION 40  -  CSS Animations: Transforms and Transitions
-    ❎ SECTION 41  -  CSS Animations: Keyframes
+    ❎ SECTION 41  -  CSS Animations: Keyframes
     ❎ SECTION 42  -  Advanced CSS: Layout With Flexbox
     ❎ SECTION 43  -  Building A Startup Site                    * project *
     ❎ SECTION 44  -  Async Foundations
