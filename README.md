@@ -113,16 +113,34 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 37  -  Git and Github
     ❎ SECTION 38  -  Deploying
     ❎ SECTION 39  -  JavaScript: The Tricky Stuff
-    SECTION 40  -  CSS Animations: Transforms and Transitions
-    SECTION 41  -  CSS Animations: Keyframes
-    SECTION 42  -  Advanced CSS: Layout With Flexbox
-    SECTION 43  -  Building A Startup Site                    * project *
-    SECTION 44  -  Async Foundations
-    SECTION 45  -  AJAX Part 1: XHR and Fetch
-    SECTION 46  -  AJAX Part 2: jQuery and Axios
-    SECTION 47  -  Testing With Jasmine
-    SECTION 48  -  Advanced Array Methods
-    SECTION 49  -  Closures and the Keyword 'this'
-    SECTION 50  -  Object Oriented Programming with JavaScript
-    SECTION 51  -  Creating JSON API's With Node and Mongo
-    SECTION 52  -  Todo List with Express, Mongo, and jQuery  * project *
+    ❎ SECTION 40  -  CSS Animations: Transforms and Transitions
+    ❎ SECTION 41  -  CSS Animations: Keyframes
+    ❎ SECTION 42  -  Advanced CSS: Layout With Flexbox
+    ❎ SECTION 43  -  Building A Startup Site                    * project *
+    ❎ SECTION 44  -  Async Foundations
+    ❎ SECTION 45  -  AJAX Part 1: XHR and Fetch
+    ❎ SECTION 46  -  AJAX Part 2: jQuery and Axios
+    ❎ SECTION 47  -  Testing With Jasmine
+    ❎ SECTION 48  -  Advanced Array Methods
+    ❎ SECTION 49  -  Closures and the Keyword 'this'
+    ❎ SECTION 50  -  Object Oriented Programming with JavaScript
+    ❎ SECTION 51  -  Creating JSON API's With Node and Mongo
+    ❎ SECTION 52  -  Todo List with Express, Mongo, and jQuery  * project *
+    ❎ SECTION 53  -  ES2015 Part I
+    ❎ SECTION 54  -  Guess the Password                         * project *
+    ❎ SECTION 55  -  ES2015 Part II
+    ❎ SECTION 56  -  ES2016 and ES2017
+    ❎ SECTION 57  -  D3 and the DOM
+    ❎ SECTION 58  -  Data Joins and Update Patterns in D3
+    ❎ SECTION 59  -  SVG and D3
+    ❎ SECTION 60  -  Intermediate D3
+    ❎ SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
+    ❎ SECTION 62  -  Building a Data Dashboard with D3          * project *
+    ❎ SECTION 63  -  Introduction To React and JSX
+    ❎ SECTION 64  -  Create React App and Props
+    ❎ SECTION 65  -  State
+    ❎ SECTION 66  -  The Virtual DOM, Events, and Forms
+    ❎ SECTION 67  -  Component Lifecycle Methods
+    ❎ SECTION 68  -  Authentication
+    ❎ SECTION 69  -  React Router
+    ❎ SECTION 70  -  Redux
