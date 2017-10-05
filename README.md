@@ -57,12 +57,17 @@ complete advanced Full-Stack Developer Bootcamp.
 
 Just showcasing a few projects, assignments and exercises.
 
-#### 1.  Image Gallery
+#### 2.  Zombie Blog
+Assignment 4 for SECTION 5  -  Introduction to CSS
+![alt text](https://i.imgur.com/tm3qqJY.png)
+
+
+#### 3.  Image Gallery
 Assignment 5 for SECTION 7  -  Bootstrap (Containers, Grid System, Jumbotron, Fixed Navbar, Brand, Font Awesome)
 ![alt text](https://i.imgur.com/CDj2rxP.png)
 
 
-#### 2.  Purrfect Match - a human-feline dating app
+#### 4.  Purrfect Match - a human-feline dating app
 Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hamburger menu, buttons, background Image)
 ![alt text](https://i.imgur.com/a6YcvAy.png)
 
