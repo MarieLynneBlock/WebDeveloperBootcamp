@@ -74,15 +74,15 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 16  -  Intro to jQuery
     ❎ SECTION 17  -  Advanced jQuery
     ❎ SECTION 18  -  Todo List Projects
-    ❎ SECTION 19  -  Patatap Clone                          (OPTIONAL Project)
+    ❎ SECTION 19  -  Patatap Clone                              (OPTIONAL Project)
     ❎ SECTION 20  -  Backend Basics
     ❎ SECTION 21  -  The Command Line
     ❎ SECTION 22  -  Node JS
     ❎ SECTION 23  -  Server Side Frameworks
     ❎ SECTION 24  -  Intermediate Express
     ❎ SECTION 25  -  Working With API's
-    ❎ SECTION 26  -  YelpCamp: Basics                       * project *
-    ❎ SECTION 27  -  Databases                              * learning path * 
+    ❎ SECTION 26  -  YelpCamp: Basics                           * project *
+    ❎ SECTION 27  -  Databases                                  * learning path * 
             ✅ SECTION 27.01  -  Introduction to SQL
             ❎ SECTION 27.02  -  Overview
             ❎ SECTION 27.03  -  Creating Databases and Tables
@@ -101,15 +101,15 @@ complete advanced Full-Stack Developer Bootcamp.
             ❎ SECTION 27.16  -  Introducing Node
             ❎ SECTION 27.17  -  Building Our Web App
             ❎ SECTION 27.18  -  Database Triggers
-    ❎ SECTION 28  -  YelpCamp: Data Persistance             * project *
+    ❎ SECTION 28  -  YelpCamp: Data Persistance                 * project *
     ❎ SECTION 29  -  RESTful Routing
     ❎ SECTION 30  -  Data Associations
-    ❎ SECTION 31  -  YelpCamp: Comments                     * project *
+    ❎ SECTION 31  -  YelpCamp: Comments                         * project *
     ❎ SECTION 32  -  Authentication
-    ❎ SECTION 33  -  YelpCamp: Adding Authentication        * project *
-    ❎ SECTION 34  -  YelpCamp: Cleaning Up                  * project *
-    ❎ SECTION 35  -  YelpCamp: Update and Destroy           * project *
-    ❎ SECTION 36  -  YelpCamp: UI Improvements              * project *
+    ❎ SECTION 33  -  YelpCamp: Adding Authentication            * project *
+    ❎ SECTION 34  -  YelpCamp: Cleaning Up                      * project *
+    ❎ SECTION 35  -  YelpCamp: Update and Destroy               * project *
+    ❎ SECTION 36  -  YelpCamp: UI Improvements                  * project *
     ❎ SECTION 37  -  Git and Github
     ❎ SECTION 38  -  Deploying
     ❎ SECTION 39  -  JavaScript: The Tricky Stuff
@@ -129,7 +129,7 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 53  -  ES2015 Part I
     ❎ SECTION 54  -  Guess the Password                         * project *
     ❎ SECTION 55  -  ES2015 Part II
-    ❎ SECTION 56  -  ES2016 and ES2017
+    ❎ SECTION 56  -  ES2016 and ES2017
     ❎ SECTION 57  -  D3 and the DOM
     ❎ SECTION 58  -  Data Joins and Update Patterns in D3
     ❎ SECTION 59  -  SVG and D3
