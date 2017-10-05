@@ -118,7 +118,7 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 42  -  Advanced CSS: Layout With Flexbox
     ❎ SECTION 43  -  Building A Startup Site                    * project *
     ❎ SECTION 44  -  Async Foundations
-    ❎ SECTION 45  -  AJAX Part 1: XHR and Fetch
+    ❎ SECTION 45  -  AJAX Part 1: XHR and Fetch
     ❎ SECTION 46  -  AJAX Part 2: jQuery and Axios
     ❎ SECTION 47  -  Testing With Jasmine
     ❎ SECTION 48  -  Advanced Array Methods
