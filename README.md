@@ -120,7 +120,7 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 44  -  Async Foundations
     ❎ SECTION 45  -  AJAX Part 1: XHR and Fetch
     ❎ SECTION 46  -  AJAX Part 2: jQuery and Axios
-    ❎ SECTION 47  -  Testing With Jasmine
+    ❎ SECTION 47  -  Testing With Jasmine
     ❎ SECTION 48  -  Advanced Array Methods
     ❎ SECTION 49  -  Closures and the Keyword 'this'
     ❎ SECTION 50  -  Object Oriented Programming with JavaScript
