@@ -131,7 +131,7 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 55  -  ES2015 Part II
     ❎ SECTION 56  -  ES2016 and ES2017
     ❎ SECTION 57  -  D3 and the DOM
-    ❎ SECTION 58  -  Data Joins and Update Patterns in D3
+    ❎ SECTION 58  -  Data Joins and Update Patterns in D3
     ❎ SECTION 59  -  SVG and D3
     ❎ SECTION 60  -  Intermediate D3
     ❎ SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
