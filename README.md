@@ -74,15 +74,15 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 16  -  Intro to jQuery
     ❎ SECTION 17  -  Advanced jQuery
     ❎ SECTION 18  -  Todo List Projects
-    ❎ SECTION 19  -  Patatap Clone        (OPTIONAL Project)
+    ❎ SECTION 19  -  Patatap Clone                          (OPTIONAL Project)
     ❎ SECTION 20  -  Backend Basics
     ❎ SECTION 21  -  The Command Line
     ❎ SECTION 22  -  Node JS
     ❎ SECTION 23  -  Server Side Frameworks
     ❎ SECTION 24  -  Intermediate Express
     ❎ SECTION 25  -  Working With API's
-    ❎ SECTION 26  -  YelpCamp: Basics                     * project *
-    ❎ SECTION 27  -  Databases                            * learning path * 
+    ❎ SECTION 26  -  YelpCamp: Basics                       * project *
+    ❎ SECTION 27  -  Databases                              * learning path * 
             ✅ SECTION 27.01  -  Introduction to SQL
             ❎ SECTION 27.02  -  Overview
             ❎ SECTION 27.03  -  Creating Databases and Tables
@@ -101,17 +101,28 @@ complete advanced Full-Stack Developer Bootcamp.
             ❎ SECTION 27.16  -  Introducing Node
             ❎ SECTION 27.17  -  Building Our Web App
             ❎ SECTION 27.18  -  Database Triggers
-    ❎ SECTION 28  -  YelpCamp: Data Persistance           * project *
+    ❎ SECTION 28  -  YelpCamp: Data Persistance             * project *
     ❎ SECTION 29  -  RESTful Routing
     ❎ SECTION 30  -  Data Associations
-    ❎ SECTION 31  -  YelpCamp: Comments                   * project *
+    ❎ SECTION 31  -  YelpCamp: Comments                     * project *
     ❎ SECTION 32  -  Authentication
-    ❎ SECTION 33  -  YelpCamp: Adding Authentication      * project *
-    ❎ SECTION 34  -  YelpCamp: Cleaning Up                * project *
-    ❎ SECTION 35  -  YelpCamp: Update and Destroy         * project *
-    ❎ SECTION 36  -  YelpCamp: UI Improvements            * project *
+    ❎ SECTION 33  -  YelpCamp: Adding Authentication        * project *
+    ❎ SECTION 34  -  YelpCamp: Cleaning Up                  * project *
+    ❎ SECTION 35  -  YelpCamp: Update and Destroy           * project *
+    ❎ SECTION 36  -  YelpCamp: UI Improvements              * project *
     ❎ SECTION 37  -  Git and Github
     ❎ SECTION 38  -  Deploying
     ❎ SECTION 39  -  JavaScript: The Tricky Stuff
-    
-             
+    SECTION 40  -  CSS Animations: Transforms and Transitions
+    SECTION 41  -  CSS Animations: Keyframes
+    SECTION 42  -  Advanced CSS: Layout With Flexbox
+    SECTION 43  -  Building A Startup Site                    * project *
+    SECTION 44  -  Async Foundations
+    SECTION 45  -  AJAX Part 1: XHR and Fetch
+    SECTION 46  -  AJAX Part 2: jQuery and Axios
+    SECTION 47  -  Testing With Jasmine
+    SECTION 48  -  Advanced Array Methods
+    SECTION 49  -  Closures and the Keyword 'this'
+    SECTION 50  -  Object Oriented Programming with JavaScript
+    SECTION 51  -  Creating JSON API's With Node and Mongo
+    SECTION 52  -  Todo List with Express, Mongo, and jQuery  * project *
