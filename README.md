@@ -141,6 +141,6 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 65  -  State
     ❎ SECTION 66  -  The Virtual DOM, Events, and Forms
     ❎ SECTION 67  -  Component Lifecycle Methods
-    ❎ SECTION 68  -  Authentication
+    ❎ SECTION 68  -  Authentication
     ❎ SECTION 69  -  React Router
-    ❎ SECTION 70  -  Redux
+    ❎ SECTION 70  -  Redux
