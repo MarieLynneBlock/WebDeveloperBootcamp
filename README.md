@@ -58,12 +58,12 @@ complete advanced Full-Stack Developer Bootcamp.
 Just showcasing a few projects, assignments and exercises.
 
 #### Image Gallery
-Assignment 5 for SECTION 7  -  Bootstrap (Grid/Flex, Font Awesome)
+Assignment 5 for SECTION 7  -  Bootstrap (Containers, Grid System, Jumbotron, Fixed Navbar, Brand, Font Awesome)
 ![alt text](https://i.imgur.com/CDj2rxP.png)
 
 
 #### Purrfect Match - a human-feline dating app
-Assignment 6 for SECTION 7  -  Bootstrap
+Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hamburger menu, buttons)
 ![alt text](https://i.imgur.com/a6YcvAy.png)
 
 
