@@ -55,8 +55,8 @@ complete advanced Full-Stack Developer Bootcamp.
 
 ## Projects
 
-#### Purrfect Match; a human-feline dating app
-Bootstrap
+#### Purrfect Match - a human-feline dating app
+Assignment 6 for SECTION 7  -  Bootstrap
 ![alt text](https://i.imgur.com/a6YcvAy.png)
 
 
