@@ -61,6 +61,7 @@ Just showcasing a few projects, assignments and exercises.
 Assignment 5 for SECTION 7  -  Bootstrap (Grid/Flex, Font Awesome)
 ![alt text](https://i.imgur.com/CDj2rxP.png)
 
+
 #### Purrfect Match - a human-feline dating app
 Assignment 6 for SECTION 7  -  Bootstrap
 ![alt text](https://i.imgur.com/a6YcvAy.png)
