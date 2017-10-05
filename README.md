@@ -63,7 +63,7 @@ Assignment 4 for SECTION 5  -  Introduction to CSS
 
 
 #### 2.  Black & White Image gallery
-Exercise 21 for SECTION 6  -  Intermediate CSS (pure CSS, responsive, images, alt-tags)
+Exercise 21 for SECTION 6  -  Intermediate CSS (pure CSS, responsive, images, alt-tags, flex boxes)
 ![alt text](https://i.imgur.com/lC8rYkN.png)
 
 
