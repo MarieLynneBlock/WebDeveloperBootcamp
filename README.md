@@ -134,8 +134,8 @@ complete advanced Full-Stack Developer Bootcamp.
     ❎ SECTION 58  -  Data Joins and Update Patterns in D3
     ❎ SECTION 59  -  SVG and D3
     ❎ SECTION 60  -  Intermediate D3
-    ❎ SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
-    ❎ SECTION 62  -  Building a Data Dashboard with D3          * project *
+    ❎ SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
+    ❎ SECTION 62  -  Building a Data Dashboard with D3          * project *
     ❎ SECTION 63  -  Introduction To React and JSX
     ❎ SECTION 64  -  Create React App and Props
     ❎ SECTION 65  -  State
