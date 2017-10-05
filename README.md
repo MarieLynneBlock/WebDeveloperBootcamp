@@ -57,7 +57,7 @@ complete advanced Full-Stack Developer Bootcamp.
 
 #### Purrfect Match; a human-feline dating app
 Bootstrap
-![alt text](https://imgur.com/a/BkA0y)
+![alt text](https://imgur.com/a6YcvAy)
 
 
 ## Course Layout
