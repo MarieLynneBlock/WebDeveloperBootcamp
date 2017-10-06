@@ -2,7 +2,7 @@
 
 Exercises for The Web Developer Bootcamp 2017
 
-complete advanced Full-Stack Developer Bootcamp.
+complete advanced Full-Stack Developer Bootcamp, * inclusive extramural Database Training.
 
     Tools and technologies covered throughout the course:
       - HTML5
@@ -106,27 +106,27 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] SECTION 25  -  Working With API's
 - [ ] SECTION 26  -  YelpCamp: Basics                           * project *
 - [ ] SECTION 27  -  Databases                                  * learning path * 
-        - [ ] <em>SECTION 27.01  -  Introduction to SQL</em>
-        - [ ] <em>SECTION 27.02  -  Overview</em>
-        - [ ] <em>SECTION 27.03  -  Creating Databases and Tables</em>
-        - [ ] <em>SECTION 27.04  -  Inserting Data</em>
-        - [ ] <em>SECTION 27.05  -  CRUD commmands</em>
-        - [ ] <em>SECTION 27.06  -  CRUD Challenge</em>
-        - [ ] <em>SECTION 27.07  -  The World Of String Functions</em>
-        - [ ] <em>SECTION 27.08  -  Refining Our Selections</em>
-        - [ ] <em>SECTION 27.09  -  The Magic of Aggregate Functions</em>
-        - [ ] <em>SECTION 27.10  -  Revisiting Data Types</em>
-        - [ ] <em>SECTION 27.11  -  The Power of Logical Operators</em>
-        - [ ] <em>SECTION 27.12  -  One To Many 1</em>
-        - [ ] <em>SECTION 27.13  -  One To Many 2</em>
-        - [ ] <em>SECTION 27.14  -  Instagram Database Clone</em>
-        - [ ] <em>SECTION 27.15  -  Working With Lots Of Instagram Data</em>
-        - [ ] <em>SECTION 27.16  -  Introducing Node</em>
-        - [ ] <em>SECTION 27.17  -  Building Our Web App</em>
-        - [ ] <em>SECTION 27.18  -  Database Triggers</em>
-    ❎ SECTION 28  -  YelpCamp: Data Persistance                 * project *
-    ❎ SECTION 29  -  RESTful Routing
-    ❎ SECTION 30  -  Data Associations
+- [ ] *Extra Muros 27.01  -  Introduction to SQL           
+- [ ] Extra Muros 27.02  -  Overview
+- [ ] Extra Muros 27.03  -  Creating Databases and Tables
+- [ ] Extra Muros 27.04  -  Inserting Data
+- [ ] Extra Muros 27.05  -  CRUD commmands
+- [ ] Extra Muros 27.06  -  CRUD Challenge
+- [ ] Extra Muros 27.07  -  The World Of String Functions
+- [ ] Extra Muros 27.08  -  Refining Our Selections</em>
+- [ ] Extra Muros 27.09  -  The Magic of Aggregate Functions</em>
+- [ ] Extra Muros 27.10  -  Revisiting Data Types</em>
+- [ ] Extra Muros 27.11  -  The Power of Logical Operators</em>
+- [ ] Extra Muros 27.12  -  One To Many 1</em>
+- [ ] Extra Muros 27.13  -  One To Many 2</em>
+- [ ] Extra Muros 27.14  -  Instagram Database Clone</em>
+- [ ] Extra Muros 27.15  -  Working With Lots Of Instagram Data</em>
+- [ ] Extra Muros 27.16  -  Introducing Node</em>
+- [ ] Extra Muros 27.17  -  Building Our Web App</em>
+- [ ] Extra Muros 27.18  -  Database Triggers*
+- [ ] SECTION 28  -  YelpCamp: Data Persistance                 * project *
+- [ ] SECTION 29  -  RESTful Routing
+- [ ] SECTION 30  -  Data Associations
     ❎ SECTION 31  -  YelpCamp: Comments                         * project *
     ❎ SECTION 32  -  Authentication
     ❎ SECTION 33  -  YelpCamp: Adding Authentication            * project *
