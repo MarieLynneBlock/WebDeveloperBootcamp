@@ -77,21 +77,21 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 ![alt text](https://i.imgur.com/a6YcvAy.png)
 
 
-## Course Layout
+## Course Layout & Progress
 
 - [x] SECTION 01  -  Introduction to this Course
 - [x] SECTION 02  -  Introduction to Front End Development
 - [x] SECTION 03  -  Introduction to HTML
-    ✅ SECTION 04  -  Intermediate HTML
-    ✅ SECTION 05  -  Introduction to CSS
-    ✅ SECTION 06  -  Intermediate CSS
-    ✅ SECTION 07  -  Bootstrap
-    ✅ SECTION 08  -  Introduction to JavaScript
-    ✅ SECTION 09  -  Javascript Basics: Control Flow
-    ❎ SECTION 10  -  Javascript Basics: Functions
-    ❎ SECTION 11  -  Javascript Basics: Arrays
-    ❎ SECTION 12  -  Javascript Basics: Objects
-    ❎ SECTION 13  -  DOM Manipulation
+- [x] SECTION 04  -  Intermediate HTML
+- [x] SECTION 05  -  Introduction to CSS
+- [x] SECTION 06  -  Intermediate CSS
+- [x] SECTION 07  -  Bootstrap
+- [x] SECTION 08  -  Introduction to JavaScript
+- [x] SECTION 09  -  Javascript Basics: Control Flow
+- [ ] SECTION 10  -  Javascript Basics: Functions
+- [ ] SECTION 11  -  Javascript Basics: Arrays
+- [ ] SECTION 12  -  Javascript Basics: Objects
+- [ ] SECTION 13  -  DOM Manipulation
     ❎ SECTION 14  -  Advanced DOM Manipulation
     ❎ SECTION 15  -  Color Game Project
     ❎ SECTION 16  -  Intro to jQuery
