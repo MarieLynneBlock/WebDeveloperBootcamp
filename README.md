@@ -79,9 +79,9 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 
 ## Course Layout
 
-    - [x] SECTION 01  -  Introduction to this Course
-    - [x] SECTION 02  -  Introduction to Front End Development
-    - [x] SECTION 03  -  Introduction to HTML
+- [x] SECTION 01  -  Introduction to this Course
+- [x] SECTION 02  -  Introduction to Front End Development
+- [x] SECTION 03  -  Introduction to HTML
     ✅ SECTION 04  -  Intermediate HTML
     ✅ SECTION 05  -  Introduction to CSS
     ✅ SECTION 06  -  Intermediate CSS
