@@ -92,22 +92,22 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] SECTION 11  -  Javascript Basics: Arrays
 - [ ] SECTION 12  -  Javascript Basics: Objects
 - [ ] SECTION 13  -  DOM Manipulation
-    ❎ SECTION 14  -  Advanced DOM Manipulation
-    ❎ SECTION 15  -  Color Game Project
-    ❎ SECTION 16  -  Intro to jQuery
-    ❎ SECTION 17  -  Advanced jQuery
-    ❎ SECTION 18  -  Todo List Projects
-    ❎ SECTION 19  -  Patatap Clone                              (OPTIONAL Project)
-    ❎ SECTION 20  -  Backend Basics
-    ❎ SECTION 21  -  The Command Line
-    ❎ SECTION 22  -  Node JS
-    ❎ SECTION 23  -  Server Side Frameworks
-    ❎ SECTION 24  -  Intermediate Express
-    ❎ SECTION 25  -  Working With API's
-    ❎ SECTION 26  -  YelpCamp: Basics                           * project *
-    ❎ SECTION 27  -  Databases                                  * learning path * 
-            ✅ SECTION 27.01  -  Introduction to SQL
-            ❎ SECTION 27.02  -  Overview
+- [ ] SECTION 14  -  Advanced DOM Manipulation
+- [ ] SECTION 15  -  Color Game Project
+- [ ] SECTION 16  -  Intro to jQuery
+- [ ] SECTION 17  -  Advanced jQuery
+- [ ] SECTION 18  -  Todo List Projects
+- [ ] SECTION 19  -  Patatap Clone                              (OPTIONAL Project)
+- [ ] SECTION 20  -  Backend Basics
+- [ ] SECTION 21  -  The Command Line
+- [ ] SECTION 22  -  Node JS
+- [ ] SECTION 23  -  Server Side Frameworks
+- [ ] SECTION 24  -  Intermediate Express
+- [ ] SECTION 25  -  Working With API's
+- [ ] SECTION 26  -  YelpCamp: Basics                           * project *
+- [ ] SECTION 27  -  Databases                                  * learning path * 
+        - [ ] SECTION 27.01  -  Introduction to SQL
+        - [ ] SECTION 27.02  -  Overview
             ❎ SECTION 27.03  -  Creating Databases and Tables
             ❎ SECTION 27.04  -  Inserting Data
             ❎ SECTION 27.05  -  CRUD commmands
