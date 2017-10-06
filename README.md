@@ -104,8 +104,8 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] SECTION 23  -  Server Side Frameworks
 - [ ] SECTION 24  -  Intermediate Express
 - [ ] SECTION 25  -  Working With API's
-- [ ] SECTION 26  -  YelpCamp: Basics                           * __project__ *
-- [ ] SECTION 27  -  Databases                                  * __learning path__ * 
+- [ ] SECTION 26  -  YelpCamp: Basics                               * __project__ *
+- [ ] SECTION 27  -  Databases                                      * __learning path__ * 
 - [ ] *Extra Muros 27.01  -  Introduction to SQL*           
 - [ ] *Extra Muros 27.02  -  Overview*
 - [ ] *Extra Muros 27.03  -  Creating Databases and Tables*
@@ -124,22 +124,22 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] *Extra Muros 27.16  -  Introducing Node*
 - [ ] *Extra Muros 27.17  -  Building Our Web App*
 - [ ] *Extra Muros 27.18  -  Database Triggers*
-- [ ] SECTION 28  -  YelpCamp: Data Persistance                 * __project__ *
+- [ ] SECTION 28  -  YelpCamp: Data Persistance                     * __project__ *
 - [ ] SECTION 29  -  RESTful Routing
 - [ ] SECTION 30  -  Data Associations
-- [ ] SECTION 31  -  YelpCamp: Comments                         * __project__ *
+- [ ] SECTION 31  -  YelpCamp: Comments                             * __project__ *
 - [ ] SECTION 32  -  Authentication
-- [ ] SECTION 33  -  YelpCamp: Adding Authentication            * __project__ *
-- [ ] SECTION 34  -  YelpCamp: Cleaning Up                      * __project__ *
-- [ ] SECTION 35  -  YelpCamp: Update and Destroy               * __project__ *
-- [ ] SECTION 36  -  YelpCamp: UI Improvements                  * __project__ *
+- [ ] SECTION 33  -  YelpCamp: Adding Authentication                * __project__ *
+- [ ] SECTION 34  -  YelpCamp: Cleaning Up                          * __project__ *
+- [ ] SECTION 35  -  YelpCamp: Update and Destroy                   * __project__ *
+- [ ] SECTION 36  -  YelpCamp: UI Improvements                      * __project__ *
 - [ ] SECTION 37  -  Git and Github
 - [ ] SECTION 38  -  Deploying
 - [ ] SECTION 39  -  JavaScript: The Tricky Stuff
 - [ ] SECTION 40  -  CSS Animations: Transforms and Transitions
 - [ ] SECTION 41  -  CSS Animations: Keyframes
 - [ ] SECTION 42  -  Advanced CSS: Layout With Flexbox
-- [ ] SECTION 43  -  Building A Startup Site                    * __project__ *
+- [ ] SECTION 43  -  Building A Startup Site                        * __project__ *
 - [ ] SECTION 44  -  Async Foundations
 - [ ] SECTION 45  -  AJAX Part 1: XHR and Fetch
 - [ ] SECTION 46  -  AJAX Part 2: jQuery and Axios
@@ -148,9 +148,9 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] SECTION 49  -  Closures and the Keyword 'this'
 - [ ] SECTION 50  -  Object Oriented Programming with JavaScript
 - [ ] SECTION 51  -  Creating JSON API's With Node and Mongo
-- [ ] SECTION 52  -  Todo List with Express, Mongo, and jQuery  * __project__ *
+- [ ] SECTION 52  -  Todo List with Express, Mongo, and jQuery      * __project__ *
 - [ ] SECTION 53  -  ES2015 Part I
-- [ ] SECTION 54  -  Guess the Password                         * __project__ *
+- [ ] SECTION 54  -  Guess the Password                             * __project__ *
 - [ ] SECTION 55  -  ES2015 Part II
 - [ ] SECTION 56  -  ES2016 and ES2017
 - [ ] SECTION 57  -  D3 and the DOM
@@ -158,7 +158,7 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] SECTION 59  -  SVG and D3
 - [ ] SECTION 60  -  Intermediate D3
 - [ ] SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
-- [ ] SECTION 62  -  Building a Data Dashboard with D3          * __project__ *
+- [ ] SECTION 62  -  Building a Data Dashboard with D3              * __project__ *
 - [ ] SECTION 63  -  Introduction To React and JSX
 - [ ] SECTION 64  -  Create React App and Props
 - [ ] SECTION 65  -  State
