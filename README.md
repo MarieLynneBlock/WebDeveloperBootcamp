@@ -106,9 +106,9 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] SECTION 25  -  Working With API's
 - [ ] SECTION 26  -  YelpCamp: Basics                           * project *
 - [ ] SECTION 27  -  Databases                                  * learning path * 
-- [ ] *Extra Muros 27.01  -  Introduction to SQL           
-- [ ] Extra Muros 27.02  -  Overview
-- [ ] Extra Muros 27.03  -  Creating Databases and Tables
+- [ ] *Extra Muros 27.01  -  Introduction to SQL*           
+- [ ] *Extra Muros 27.02  -  Overview*
+- [ ] *Extra Muros 27.03  -  Creating Databases and Tables*
 - [ ] Extra Muros 27.04  -  Inserting Data
 - [ ] Extra Muros 27.05  -  CRUD commmands
 - [ ] Extra Muros 27.06  -  CRUD Challenge
