@@ -109,61 +109,61 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [ ] *Extra Muros 27.01  -  Introduction to SQL*           
 - [ ] *Extra Muros 27.02  -  Overview*
 - [ ] *Extra Muros 27.03  -  Creating Databases and Tables*
-- [ ] Extra Muros 27.04  -  Inserting Data
-- [ ] Extra Muros 27.05  -  CRUD commmands
-- [ ] Extra Muros 27.06  -  CRUD Challenge
-- [ ] Extra Muros 27.07  -  The World Of String Functions
-- [ ] Extra Muros 27.08  -  Refining Our Selections</em>
-- [ ] Extra Muros 27.09  -  The Magic of Aggregate Functions</em>
-- [ ] Extra Muros 27.10  -  Revisiting Data Types</em>
-- [ ] Extra Muros 27.11  -  The Power of Logical Operators</em>
-- [ ] Extra Muros 27.12  -  One To Many 1</em>
-- [ ] Extra Muros 27.13  -  One To Many 2</em>
-- [ ] Extra Muros 27.14  -  Instagram Database Clone</em>
-- [ ] Extra Muros 27.15  -  Working With Lots Of Instagram Data</em>
-- [ ] Extra Muros 27.16  -  Introducing Node</em>
-- [ ] Extra Muros 27.17  -  Building Our Web App</em>
-- [ ] Extra Muros 27.18  -  Database Triggers*
+- [ ] *Extra Muros 27.04  -  Inserting Data*
+- [ ] *Extra Muros 27.05  -  CRUD commmands*
+- [ ] *Extra Muros 27.06  -  CRUD Challenge*
+- [ ] *Extra Muros 27.07  -  The World Of String Functions*
+- [ ] *Extra Muros 27.08  -  Refining Our Selections*
+- [ ] *Extra Muros 27.09  -  The Magic of Aggregate Functions*
+- [ ] *Extra Muros 27.10  -  Revisiting Data Types*
+- [ ] *Extra Muros 27.11  -  The Power of Logical Operators*
+- [ ] *Extra Muros 27.12  -  One To Many 1*
+- [ ] *Extra Muros 27.13  -  One To Many 2*
+- [ ] *Extra Muros 27.14  -  Instagram Database Clone*
+- [ ] *Extra Muros 27.15  -  Working With Lots Of Instagram Data*
+- [ ] *Extra Muros 27.16  -  Introducing Node*
+- [ ] *Extra Muros 27.17  -  Building Our Web App*
+- [ ] *Extra Muros 27.18  -  Database Triggers*
 - [ ] SECTION 28  -  YelpCamp: Data Persistance                 * project *
 - [ ] SECTION 29  -  RESTful Routing
 - [ ] SECTION 30  -  Data Associations
-    ❎ SECTION 31  -  YelpCamp: Comments                         * project *
-    ❎ SECTION 32  -  Authentication
-    ❎ SECTION 33  -  YelpCamp: Adding Authentication            * project *
-    ❎ SECTION 34  -  YelpCamp: Cleaning Up                      * project *
-    ❎ SECTION 35  -  YelpCamp: Update and Destroy               * project *
-    ❎ SECTION 36  -  YelpCamp: UI Improvements                  * project *
-    ❎ SECTION 37  -  Git and Github
-    ❎ SECTION 38  -  Deploying
-    ❎ SECTION 39  -  JavaScript: The Tricky Stuff
-    ❎ SECTION 40  -  CSS Animations: Transforms and Transitions
-    ❎ SECTION 41  -  CSS Animations: Keyframes
-    ❎ SECTION 42  -  Advanced CSS: Layout With Flexbox
-    ❎ SECTION 43  -  Building A Startup Site                    * project *
-    ❎ SECTION 44  -  Async Foundations
-    ❎ SECTION 45  -  AJAX Part 1: XHR and Fetch
-    ❎ SECTION 46  -  AJAX Part 2: jQuery and Axios
-    ❎ SECTION 47  -  Testing With Jasmine
-    ❎ SECTION 48  -  Advanced Array Methods
-    ❎ SECTION 49  -  Closures and the Keyword 'this'
-    ❎ SECTION 50  -  Object Oriented Programming with JavaScript
-    ❎ SECTION 51  -  Creating JSON API's With Node and Mongo
-    ❎ SECTION 52  -  Todo List with Express, Mongo, and jQuery  * project *
-    ❎ SECTION 53  -  ES2015 Part I
-    ❎ SECTION 54  -  Guess the Password                         * project *
-    ❎ SECTION 55  -  ES2015 Part II
-    ❎ SECTION 56  -  ES2016 and ES2017
-    ❎ SECTION 57  -  D3 and the DOM
-    ❎ SECTION 58  -  Data Joins and Update Patterns in D3
-    ❎ SECTION 59  -  SVG and D3
-    ❎ SECTION 60  -  Intermediate D3
-    ❎ SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
-    ❎ SECTION 62  -  Building a Data Dashboard with D3          * project *
-    ❎ SECTION 63  -  Introduction To React and JSX
-    ❎ SECTION 64  -  Create React App and Props
-    ❎ SECTION 65  -  State
-    ❎ SECTION 66  -  The Virtual DOM, Events, and Forms
-    ❎ SECTION 67  -  Component Lifecycle Methods
-    ❎ SECTION 68  -  Authentication
-    ❎ SECTION 69  -  React Router
-    ❎ SECTION 70  -  Redux
+- [ ] SECTION 31  -  YelpCamp: Comments                         * project *
+- [ ] SECTION 32  -  Authentication
+- [ ] SECTION 33  -  YelpCamp: Adding Authentication            * project *
+- [ ] SECTION 34  -  YelpCamp: Cleaning Up                      * project *
+- [ ] SECTION 35  -  YelpCamp: Update and Destroy               * project *
+- [ ] SECTION 36  -  YelpCamp: UI Improvements                  * project *
+- [ ] SECTION 37  -  Git and Github
+- [ ] SECTION 38  -  Deploying
+- [ ] SECTION 39  -  JavaScript: The Tricky Stuff
+- [ ] SECTION 40  -  CSS Animations: Transforms and Transitions
+- [ ] SECTION 41  -  CSS Animations: Keyframes
+- [ ] SECTION 42  -  Advanced CSS: Layout With Flexbox
+- [ ] SECTION 43  -  Building A Startup Site                    * project *
+- [ ] SECTION 44  -  Async Foundations
+- [ ] SECTION 45  -  AJAX Part 1: XHR and Fetch
+- [ ] SECTION 46  -  AJAX Part 2: jQuery and Axios
+- [ ] SECTION 47  -  Testing With Jasmine
+- [ ] SECTION 48  -  Advanced Array Methods
+- [ ] SECTION 49  -  Closures and the Keyword 'this'
+- [ ] SECTION 50  -  Object Oriented Programming with JavaScript
+- [ ] SECTION 51  -  Creating JSON API's With Node and Mongo
+- [ ] SECTION 52  -  Todo List with Express, Mongo, and jQuery  * project *
+- [ ] SECTION 53  -  ES2015 Part I
+- [ ] SECTION 54  -  Guess the Password                         * project *
+- [ ] SECTION 55  -  ES2015 Part II
+- [ ] SECTION 56  -  ES2016 and ES2017
+- [ ] SECTION 57  -  D3 and the DOM
+- [ ] SECTION 58  -  Data Joins and Update Patterns in D3
+- [ ] SECTION 59  -  SVG and D3
+- [ ] SECTION 60  -  Intermediate D3
+- [ ] SECTION 61  -  D3 Odds and Ends, and Advanced Graph Types
+- [ ] SECTION 62  -  Building a Data Dashboard with D3          * project *
+- [ ] SECTION 63  -  Introduction To React and JSX
+- [ ] SECTION 64  -  Create React App and Props
+- [ ] SECTION 65  -  State
+- [ ] SECTION 66  -  The Virtual DOM, Events, and Forms
+- [ ] SECTION 67  -  Component Lifecycle Methods
+- [ ] SECTION 68  -  Authentication
+- [ ] SECTION 69  -  React Router
+- [ ] SECTION 70  -  Redux
