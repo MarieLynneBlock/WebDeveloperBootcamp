@@ -89,7 +89,7 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [x] SECTION 07  -  Bootstrap
 - [x] SECTION 08  -  Introduction to JavaScript
 - [x] SECTION 09  -  Javascript Basics: Control Flow
-- [ ] SECTION 10  -  Javascript Basics: Functions
+- [x] SECTION 10  -  Javascript Basics: Functions
 - [ ] SECTION 11  -  Javascript Basics: Arrays
 - [ ] SECTION 12  -  Javascript Basics: Objects
 - [ ] SECTION 13  -  DOM Manipulation
