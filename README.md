@@ -92,8 +92,8 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [x] SECTION 10  -  Javascript Basics: Functions
 - [x] SECTION 11  -  Javascript Basics: Arrays
 - [x] SECTION 12  -  Javascript Basics: Objects
-- [ ] SECTION 13  -  DOM Manipulation
-- [ ] SECTION 14  -  Advanced DOM Manipulation
+- [x] SECTION 13  -  DOM Manipulation
+- [x] SECTION 14  -  Advanced DOM Manipulation
 - [ ] SECTION 15  -  Color Game Project
 - [ ] SECTION 16  -  Intro to jQuery
 - [ ] SECTION 17  -  Advanced jQuery
