@@ -59,8 +59,8 @@ complete advanced Full-Stack Developer Bootcamp,
 Just showcasing a few projects, assignments and exercises.
 
 #### 1.  Zombie Blog 
-Assignment 4 for SECTION 5  -  Introduction to CSS
-[Zombie Blog - code] (https://github.com/MarieLynneBlock/WebDeveloperBootcamp/tree/master/000%20Assignments/Assignment%204%20-%20Blog)
+Assignment 4 for SECTION 5  -  Introduction to CSS  
+[Zombie Blog - code](https://github.com/MarieLynneBlock/WebDeveloperBootcamp/tree/master/000%20Assignments/Assignment%204%20-%20Blog)
 ![alt text](https://i.imgur.com/tm3qqJY.png)
 
 
