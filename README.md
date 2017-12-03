@@ -3,15 +3,8 @@
 Exercises, projects, quizzes, etc. i did for The Web Developer Bootcamp 2017
 
 It was complete advanced Full-Stack Developer Bootcamp, inclusive extramural Database Training.
-Tools and technologies covered throughout the course:
-      HTML5, CSS3, JavaScript, Bootstrap
-      - SemanticUI
-      - DOM Manipulation
-      - jQuery
-      - Unix Commands / Command Line
-      - NodeJS
-      - NPM
-      - ExpressJS
+Tools and technologies covered throughout the course:    
+      `HTML5` `CSS3` `JavaScript` `Bootstrap` `SemanticUI` `DOM Manipulation` `jQuery` `Unix Commands / Command Line` `NodeJS`      `NPM` `ExpressJS`
       - REST
       - MongoDB
       - Database Associations
