@@ -4,44 +4,11 @@ Exercises, projects, quizzes, etc. i did for The Web Developer Bootcamp 2017
 
 It was complete advanced Full-Stack Developer Bootcamp, inclusive extramural Database Training.
 Tools and technologies covered throughout the course:    
-      `HTML5` `CSS3` `JavaScript` `Bootstrap` `SemanticUI` `DOM Manipulation` `jQuery` `Unix Commands / Command Line` `NodeJS`      `NPM` `ExpressJS`
-      - REST
-      - MongoDB
-      - Database Associations
-            - SQL syntax
-            - Generate reports using sales and user data
-            - Aggregate Functions
-            - CRUD
-            - Run complex queries using MySQL
-            - Logical operators and string functions
-            - Write the common SQL joins
-            - Work with large datasets
-            - Build a web apps using MySQL and NodeJS
-            - Design and implement complex database schemas
-            - Storing dates and times
-            - Write Javascript code to generate data sets
-      - PassportJS
-      - Authorization
-      - React
-      - React-Router
-      - Redux
-      - CSS3 Transitions, Transforms and Animations
-      - Testing with Jasmine
-      - D3
-      - SVG
-      - Building charts, force graphs and data visualizations
-      - ES2015 keywords, arrow functions, class syntax, and much more
-      - ES2016 and ES2017 and cutting edge features to JavaScript
-      - Callbacks, Promises, Generators and Async Functions
-      - Building Node.js APIs
-      - Building Single Page Applications
-      - Object Oriented Programming in JavaScript
-      - Closures and the keyword 'this'
-      - Functional Programming in JavaScript
-      - Authentication and Authorization
-      - Asynchronous Code with JavaScript
+      `HTML5` `CSS3` `JavaScript` `Bootstrap` `SemanticUI` `DOM Manipulation` `jQuery` `Unix Commands / Command Line` `NodeJS`      `NPM` `ExpressJS` `REST` `MongoDB` `Database Associations` `PassportJS` `Authorization` `React` `React-Router` `Redux` `CSS3 Transitions, Transforms and Animations` `Testing with Jasmine` `D3` `SVG` `Building charts, force graphs and data visualizations` `ES2015 keywords, arrow functions, class syntax, and much more` `ES2016 and ES2017 and cutting edge features to JavaScript` `Callbacks, Promises, Generators and Async Functions` `Building Node.js APIs` `Building Single Page Applications` `Object Oriented Programming in JavaScript` `Closures and the keyword 'this'` `Functional Programming in JavaScript` `Authentication and Authorization` `Asynchronous Code with JavaScript` `PassportJS`    
+    
+`SQL syntax` `Generate reports using sales and user data` `Aggregate Functions` `CRUD` `Run complex queries using MySQL` `Logical operators and string functions` `Write the common SQL joins` `Work with large datasets` `Build a web apps using MySQL and NodeJS` `Design and implement complex database schemas` `Storing dates and times` `Write Javascript code to generate data sets`    
+      
       
-
 ## Projects
 
 Just showcasing a few projects, assignments and exercises.
