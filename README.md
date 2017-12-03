@@ -1,11 +1,9 @@
 # WebDeveloperBootcamp
 
-Exercises for The Web Developer Bootcamp 2017
+Exercises, projects, quizzes, etc. i did for The Web Developer Bootcamp 2017
 
-complete advanced Full-Stack Developer Bootcamp,  
-       * inclusive extramural Database Training.
-
-    Tools and technologies covered throughout the course:
+It was complete advanced Full-Stack Developer Bootcamp, inclusive extramural Database Training.
+Tools and technologies covered throughout the course:
       - HTML5
       - CSS3
       - JavaScript
