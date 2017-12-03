@@ -4,10 +4,7 @@ Exercises, projects, quizzes, etc. i did for The Web Developer Bootcamp 2017
 
 It was complete advanced Full-Stack Developer Bootcamp, inclusive extramural Database Training.
 Tools and technologies covered throughout the course:
-      - HTML5
-      - CSS3
-      - JavaScript
-      - Bootstrap
+      HTML5, CSS3, JavaScript, Bootstrap
       - SemanticUI
       - DOM Manipulation
       - jQuery
