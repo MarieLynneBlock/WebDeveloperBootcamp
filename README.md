@@ -52,9 +52,9 @@ Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hambu
 - [x] SECTION 14  -  Advanced DOM Manipulation
 - [x] SECTION 15  -  Color Game Project
 - [x] SECTION 16  -  Intro to jQuery
-- [ ] SECTION 17  -  Advanced jQuery
-- [ ] SECTION 18  -  Todo List Projects
-- [ ] SECTION 19  -  Patatap Clone                              __(OPTIONAL Project)__
+- [x] SECTION 17  -  Advanced jQuery
+- [x] SECTION 18  -  Todo List Projects
+- [x] SECTION 19  -  Patatap Clone                              __(OPTIONAL Project)__
 - [ ] SECTION 20  -  Backend Basics
 - [ ] SECTION 21  -  The Command Line
 - [ ] SECTION 22  -  Node JS
