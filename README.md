@@ -30,7 +30,7 @@ Assignment 5 for SECTION 7  -  Bootstrap (Containers, Grid System, Jumbotron, Fi
 
 
 #### 4.  Purrfect Match - a human-feline dating app :cat:
-Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hamburger menu, buttons, background Image)
+Assignment 6 for SECTION 7  -  Bootstrap (startup landing page, responsive hamburger menu, buttons, background Image, shadows)
 ![alt text](https://i.imgur.com/a6YcvAy.png)
 
 
